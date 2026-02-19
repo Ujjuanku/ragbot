@@ -1,0 +1,51 @@
+Acme Tech Solutions: Product Catalog and Services
+
+Acme Tech Solutions offers a comprehensive ecosystem of enterprise software designed to enhance productivity, security, and decision-making. Below are our five flagship products.
+
+1. AcmeFlow (Enterprise Project Management)
+**Description:** AcmeFlow is our founding product and remains the industry standard for agile project management. Unlike traditional tools that act as simple list-keepers, AcmeFlow utilizes a proprietary AI engine called "FlowEngine" to predict project roadblocks before they happen. It dynamically adjusts timelines based on team velocity and historical performance data.
+**Target Customers:** Software development teams, marketing agencies, and large-scale operations departments.
+**Business Use Cases:** 
+- A marketing team managing a global campaign across three time zones.
+- An engineering department coordinating a complex microservices migration.
+**Integrations:** Deep two-way sync with GitHub, GitLab, Jira, Slack, and Microsoft Teams.
+**Pricing:**
+- **Starter:** $12/user/month (Basic task management, 5GB storage).
+- **Pro:** $25/user/month (Gantt charts, FlowEngine AI, Unlimited storage).
+- **Enterprise:** Custom pricing (SSO, Dedicated success manager, modifying source code access).
+
+2. AcmeSecure (Next-Gen Cybersecurity)
+**Description:** AcmeSecure is a cloud-native security platform that adopts a "Zero Trust" architecture. It replaces legacy VPNs with identity-aware access proxies. The core feature, "ThreatMatch," uses machine learning to analyze network traffic patterns in real-time, identifying anomalies that signature-based antiviruses miss. It also includes "Identity Guard," a passwordless biometric authentication system.
+**Target Customers:** CIOs, CISOs, and IT departments in regulated industries like Finance and Healthcare.
+**Business Use Cases:** 
+- Securing remote workforce access to internal databases.
+- Preventing data exfiltration during high-risk employee departures.
+**Integrations:** Okta, Azure AD, Splunk, and AWS CloudTrail.
+**Pricing:**
+- **Business:** $40/user/month (Standard Zero Trust access).
+- **Compliance:** $65/user/month (Includes auto-generated SOC2 and HIPAA reports).
+
+3. AcmeConnect (Unified Communications)
+**Description:** AcmeConnect unifies video conferencing, VoIP telephony, and team messaging into a single pane of glass. What sets it apart is "Neural Noise Cancellation," which filters out non-human sounds (like barking dogs or keyboard typing) from calls with 99.8% accuracy. We also offer "HoloMeeting" (Beta), allowing users with AR glasses to project remote colleagues as 3D avatars in their physical space.
+**Target Customers:** Distributed teams, sales organizations, and customer support centers.
+**Business Use Cases:** 
+- Global all-hands meetings with real-time translation in 40 languages.
+- Sales calls where the AI prompts the representative with real-time objection handling stats.
+**Pricing:**
+- **Free:** Up to 45 minutes group calling.
+- **Standard:** $15/user/month (Unlimited calling, recording transcripts).
+- **Plus:** $22/user/month (CRM integration, sentiment analysis).
+
+4. DataAcme (Self-Service Business Intelligence)
+**Description:** DataAcme democratizes data analysis. It allows non-technical users to query complex databases using natural language. For example, a user can type "Show me revenue growth in Q3 by region compared to last year," and DataAcme retrieves the SQL, executes it, and visually presents the result in an interactive dashboard. It includes "Data Lineage" tracking to ensure governance and accuracy.
+**Target Customers:** Business analysts, C-suite executives, and product managers.
+**Pricing:**
+- **Analyst:** $80/user/month (Full creation capabilities).
+- **Viewer:** $20/user/month (View-only access to dashboards).
+
+5. CloudOne (Managed AI Infrastructure)
+**Description:** CloudOne is a specialized Infrastructure-as-a-Service (IaaS) offering optimized for AI and Machine Learning workloads. It provides access to high-performance GPU clusters without the overhead of hardware management. Our "Green Compute" initiative ensures that all CloudOne instances are powered by 100% renewable energy.
+**Target Customers:** AI startups, research labs, and data science teams.
+**Pricing:**
+- **On-Demand:** Pay-per-second billing based on GPU usage.
+- **Reserved:** 30% discount for 1-year or 3-year commitments.

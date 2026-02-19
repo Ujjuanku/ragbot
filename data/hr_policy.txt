@@ -1,0 +1,36 @@
+Acme Tech Solutions: Employee Handbook and HR Policies
+
+At Acme Tech Solutions, we are dedicated to fostering a culture of trust, flexibility, and high performance. This document outlines the core policies that govern our workplace.
+
+1. Work Schedule and Location
+**Remote-First Philosophy:** We trust our employees to work where they are most productive. We operate on a "Remote-First" model, meaning all processes are designed for distributed teams.
+**Working Hours:** While usage of hours is flexible, we require "Core Collaboration Hours" between 10:00 AM and 2:00 PM in your local time zone (or the time zone of your primary team) to ensure synchronous collaboration is possible.
+**Async Week:** The last week of every quarter is designated as an "Async Week," where all synchronous meetings are cancelled to allow for deep work and project completion.
+
+2. Leave and Time Off
+**Unlimited PTO:** We offer an open Paid Time Off (PTO) policy. We do not cap the number of vacation days. However, to prevent burnout, we *require* a minimum of 15 days off per year.
+**Sick Leave:** Employees separate from PTO, employees are entitled to 10 days of paid sick leave annually.
+**Parental Leave:** We offer industry-leading parental leave: 20 weeks of fully paid leave for birth mothers and 16 weeks for fathers and adoptive parents. Re-entry coaching is provided upon return.
+**Bereavement:** Up to 10 days of paid leave for the loss of an immediate family member.
+
+3. Complete Benefits Package
+**Health Insurance:** Acme Tech covers 100% of medical, dental, and vision premiums for employees and 75% for their dependents.
+**Retirement:** We provide a 401(k) matching program, matching 50% of employee contributions up to 6% of their annual salary.
+**Wellness Stipend:** A monthly allowance of $150 is provided for gym memberships, therapy, meditation apps, or fitness equipment.
+**Home Office Budget:** New hires receive a one-time $1,000 stipend to set up their remote workspace, plus $500 annually for upgrades.
+
+4. Performance and Growth
+**Review Cycle:** Performance reviews are conducted bi-annually in June and December. We utilize a 360-degree feedback mechanism where you receive input from peers, subordinates, and managers.
+**Promotion Windows:** Promotions are announced in January and July.
+**Learning & Development:** Every employee has an annual L&D budget of $2,500. This can be used for conferences, certifications, books, or online courses related to their field.
+
+5. Code of Conduct
+**Inclusivity:** We have zero tolerance for discrimination based on race, gender, religion, sexual orientation, or age.
+**Harassment:** All forms of harassment are strictly prohibited. We maintain an anonymous whistleblower hotline managed by a third-party legal firm to report violations safely.
+**Information Security:** All employees must complete annual security training. Sharing proprietary code or customer data on unauthorized public platforms (like personal GitHub repos) is grounds for immediate termination.
+
+6. Onboarding Process
+**Day 1:** IT Setup and Welcome-All-Hands meeting.
+**Week 1:** "Acme Academy" - A series of workshops on company history, product deep-dives, and culture.
+**Month 1:** Pair programming (for engineers) or shadowing (for business roles) with a dedicated "Buddy" mentor.
+**Day 90:** A check-in with the manager to assess role fit and set long-term OKRs (Objectives and Key Results).
